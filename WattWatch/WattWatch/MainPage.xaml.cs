@@ -21,7 +21,7 @@ namespace WattWatch
             // Reset the background color of the previously selected button
             if (selectedButton != null)
             {
-                selectedButton.BackgroundColor = Color.FromHex("#001E33");
+                selectedButton.BackgroundColor = Color.FromHex("#0A0B0B");
             }
 
             // Set the background color of the clicked button to a different color

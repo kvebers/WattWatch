@@ -639,3 +639,5 @@ C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch.Android\obj\Debug\130\
 C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch.Android\obj\Debug\130\res\drawable\dish_washer.xml
 C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch.Android\obj\Debug\130\res\drawable\dryer.xml
 C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch.Android\obj\Debug\130\res\drawable\washing.xml
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch.Android\obj\Debug\130\android\src\crc64c74bb1fed3ee43ac\CustomNavigationPageRenderer.java
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch.Android\obj\Debug\130\res\drawable\wattwatch.png

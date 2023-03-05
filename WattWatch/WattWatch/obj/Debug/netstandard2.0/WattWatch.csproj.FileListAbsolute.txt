@@ -1,0 +1,15 @@
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch\bin\Debug\netstandard2.0\WattWatch.deps.json
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch\bin\Debug\netstandard2.0\WattWatch.dll
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch\bin\Debug\netstandard2.0\WattWatch.pdb
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch\obj\Debug\netstandard2.0\WattWatch.csproj.AssemblyReference.cache
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch\obj\Debug\netstandard2.0\WattWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch\obj\Debug\netstandard2.0\WattWatch.AssemblyInfoInputs.cache
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch\obj\Debug\netstandard2.0\WattWatch.AssemblyInfo.cs
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch\obj\Debug\netstandard2.0\WattWatch.csproj.CoreCompileInputs.cache
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch\obj\Debug\netstandard2.0\WattWatch.dll
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch\obj\Debug\netstandard2.0\refint\WattWatch.dll
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch\obj\Debug\netstandard2.0\WattWatch.pdb
+C:\Users\karli\source\repos\WattWatch\WattWatch\WattWatch\obj\Debug\netstandard2.0\ref\WattWatch.dll

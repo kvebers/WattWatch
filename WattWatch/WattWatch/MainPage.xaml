@@ -37,9 +37,9 @@
             <Label TextColor="#8AF4FF" Text="Machine run duration:" FontSize="20"/>
         </StackLayout>
 
-        <StackLayout Grid.Row="6" Orientation="Horizontal" Spacing="0" HorizontalOptions="CenterAndExpand" VerticalOptions="EndAndExpand" Margin="0,-10,0, 0">
+        <StackLayout Grid.Row="6" Orientation="Horizontal" Spacing="0" HorizontalOptions="CenterAndExpand" VerticalOptions="EndAndExpand" Margin="0,-10,-10, 0">
             <Picker x:Name="Duration" Title="Select an option" ItemsSource="{Binding Options}" FontSize="30" VerticalOptions="End" VerticalTextAlignment="End" BackgroundColor="Transparent" />
-            <Label TextColor="#8AF4FF" Text="h" FontSize="30" VerticalOptions="End" VerticalTextAlignment="End"/>
+            <Label TextColor="#8AF4FF" Text="h" FontSize="30" VerticalOptions="End" VerticalTextAlignment="End" Margin="0,0,0,4"/>
         </StackLayout>
 
         <StackLayout Grid.Row="7" Orientation="Horizontal" Spacing="0" HorizontalOptions="CenterAndExpand" VerticalOptions="EndAndExpand" Margin="0,-10,0, 0">

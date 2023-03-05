@@ -14,11 +14,22 @@ namespace WattWatch
         {
             InitializeComponent();
         }
+        private ImageButton selectedButton;
+
         private void OnImageButtonClicked(object sender, EventArgs e)
         {
+            // Reset the background color of the previously selected button
+            if (selectedButton != null)
+            {
+                selectedButton.BackgroundColor = Color.FromHex("#001E33");
+            }
+
             // Set the background color of the clicked button to a different color
             ImageButton clickedButton = (ImageButton)sender;
-            clickedButton.BackgroundColor = Color.Yellow;
+            clickedButton.BackgroundColor = Color.White;
+
+            // Set the selected button to the clicked button
+            selectedButton = clickedButton;
         }
     }
 }

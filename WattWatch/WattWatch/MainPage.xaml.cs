@@ -14,5 +14,11 @@ namespace WattWatch
         {
             InitializeComponent();
         }
+        private void OnImageButtonClicked(object sender, EventArgs e)
+        {
+            // Set the background color of the clicked button to a different color
+            ImageButton clickedButton = (ImageButton)sender;
+            clickedButton.BackgroundColor = Color.Yellow;
+        }
     }
 }
